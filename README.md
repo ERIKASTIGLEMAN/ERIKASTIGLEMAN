@@ -1,1 +1,5 @@
-### Hello, I'm Erika - Software Developer, who will never know everything & loves learning :nerd_face:
+# :wave: Hello, I'm Erika 
+
+## :woman_technologist: **Software Developer**, loves learning :nerd_face:
+
+
