@@ -18,7 +18,7 @@ Email
 Github
 
 # **Programming Languages**
-![ASP.NET]<img src="https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/asp.net-border.png" width="30">
+![ASP.NET]<img src="https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/asp.net-border.png" width="45">
 
 ![HTML](https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/HTML.png)
 ![CSS](https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/CSS.png)
