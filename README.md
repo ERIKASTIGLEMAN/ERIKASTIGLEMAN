@@ -6,7 +6,7 @@
 > #### :school: Suncoast Developers Guild
 >>Mar 2021 - completed Full Stack / Web Development course.
 
-**My Digital World** 
+# **My Digital World** 
 >
 >### What am I learning/working on these days
 >> - expanding my knowledge through FrontEnd Masters
