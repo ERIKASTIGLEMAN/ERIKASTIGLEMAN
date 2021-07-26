@@ -13,7 +13,6 @@
 >> - Creating small repositories to practice front-end skills
 
 # **Get in touch**
-<img scr="https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/link%20logo.png" width="50">
 
 :email:
 
