@@ -18,7 +18,12 @@ Email
 Github
 
 # **Programming Languages**
-![Javascript](https://github.com/ERIKASTIGLEMAN/README/Images/JS.png)
+![HTML](users/ERIKASTIGLEMAN/Code_Life/Personal Projects/README/Images/JS.png)
+![CSS](users/ERIKASTIGLEMAN/Code_Life/Personal Projects/README/Images/JS.png)
+![Javascript](https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/JS.png?raw=true)
+
+![REACT](users/ERIKASTIGLEMAN/Code_Life/Personal Projects/README/Images/JS.png)
+![ASP.NET](users/ERIKASTIGLEMAN/Code_Life/Personal Projects/README/Images/JS.png)
 
 
 
