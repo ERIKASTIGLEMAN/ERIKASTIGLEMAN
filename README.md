@@ -12,10 +12,10 @@
 >> - expanding my knowledge through FrontEnd Masters
 >> - Creating small repositories to practice front-end skills
 
-**Get in touch**
+# **Get in touch**
 Linkendin
 Email
 
-**Focused Languages**
+# **Focused Languages**
 
 
