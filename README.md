@@ -13,7 +13,7 @@
 >> - Creating small repositories to practice front-end skills
 
 # **Get in touch**
-<img scr="/Users/erikastigleman/Code_Life/Personal Projects/README/Images/link logo.png">
+<img scr="https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/link%20logo.png?raw=true">
 
 :email:
 
