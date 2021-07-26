@@ -18,12 +18,12 @@ Email
 Github
 
 # **Programming Languages**
-![HTML](users/ERIKASTIGLEMAN/Code_Life/Personal Projects/README/Images/JS.png)
-![CSS](users/ERIKASTIGLEMAN/Code_Life/Personal Projects/README/Images/JS.png)
-![Javascript](https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/JS.png?raw=true)
+![ASP.NET](https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/asp.net-border.png)
+![HTML](https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/HTML.png)
+![CSS](https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/CSS.png)
+![Javascript](https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/JS.png)
+![REACT](https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/REACT.png)
 
-![REACT](users/ERIKASTIGLEMAN/Code_Life/Personal Projects/README/Images/JS.png)
-![ASP.NET](users/ERIKASTIGLEMAN/Code_Life/Personal Projects/README/Images/JS.png)
 
 
 
