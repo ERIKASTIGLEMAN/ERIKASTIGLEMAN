@@ -18,7 +18,7 @@ Email
 Github
 
 # **Programming Languages**
-![Javascript](https:// github.com/ERIKASTIGLEMAN/README/Images/JS.png)
+![Javascript](https://github.com/ERIKASTIGLEMAN/README/Images/JS.png)
 
 
 
