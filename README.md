@@ -15,7 +15,10 @@
 # **Get in touch**
 Linkendin
 Email
+Github
 
-# **Focused Languages**
+# **Programming Languages**
+![Javascript](/README/Images/JS.png)
+
 
 
