@@ -13,6 +13,7 @@
 >> - Creating small repositories to practice front-end skills
 
 # **Get in touch**
+<img scr="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BpaeofXIJSZu%2BSHni6QKMnQ%3D%3D">
 
 :email:
 
