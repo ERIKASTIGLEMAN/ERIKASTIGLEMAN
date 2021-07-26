@@ -13,8 +13,10 @@
 >> - Creating small repositories to practice front-end skills
 
 # **Get in touch**
-Linkendin
-Email
+<a href="https://www.linkedin.com/in/erikastigleman/"><img scr=" "
+
+:email:
+
 Github
 
 # **Programming Languages**
