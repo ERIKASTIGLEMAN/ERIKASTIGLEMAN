@@ -8,7 +8,7 @@
 >
 > > Mar 2021 - completed Full Stack / Web Development course.
 >
-> #### :woman: Mother - :ski: Love Skiing - :high_brightness: Outdoor Adventure -
+> #### :woman: Mother - :ski: Love Skiing - :high_brightness: Outdoor Adventure - :books: Reading & Learning
 
 # **My Digital World**
 
