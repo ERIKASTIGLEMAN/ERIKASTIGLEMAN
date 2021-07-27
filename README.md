@@ -23,7 +23,7 @@
 
 :email:
 
-[![Github!](/Users/erikastigleman/Code_Life/Personal Projects/README/Images/github.png)](https://github.com/ERIKASTIGLEMAN)
+[![Github!](/Images/github.png)](https://github.com/ERIKASTIGLEMAN)
 
 # **Programming Languages**
 
