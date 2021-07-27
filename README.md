@@ -19,7 +19,7 @@
 
 # **Get in touch**
 
-![Linkedin!](/Users/erikastigleman/Code_Life/Personal Projects/README/Images/link logo.png)
+![Linkedin!](/Images/LinkedinLogo.png)
 
 :email:
 
