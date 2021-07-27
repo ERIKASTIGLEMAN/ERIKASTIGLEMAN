@@ -20,10 +20,8 @@
 # **Get in touch**
 
 [![Linkedin!](/Images/LinkLogo.png)](https://www.linkedin.com/in/erikastigleman/)
-
+[![Github!](/Images/githubgirl.png)](mailto:estigleman@outlook.com)
 [![Email!](/Images/email.png)](https://github.com/ERIKASTIGLEMAN)
-
-[![Github!](/Images/github.png)](mailto:estigleman@outlook.com)
 
 # **Programming Languages**
 
