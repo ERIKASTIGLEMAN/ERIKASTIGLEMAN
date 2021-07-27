@@ -19,7 +19,7 @@
 
 # **Get in touch**
 
-[![Linkedin!](/Images/LinkLogo.png)](https://www.linkedin.com/in/erikastigleman/) [![Github!](/Images/githubgirl.png)](mailto:estigleman@outlook.com) [![Email!](/Images/mailbox.png)](https://github.com/ERIKASTIGLEMAN)
+[![Linkedin!](/Images/LinkLogo.png)](https://www.linkedin.com/in/erikastigleman/) [![Github!](/Images/githubgirl.png)](https://github.com/ERIKASTIGLEMAN) [![Email!](/Images/mailbox.png)](mailto:estigleman@outlook.com)
 
 # **Programming Languages**
 
