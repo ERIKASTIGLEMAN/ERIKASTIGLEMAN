@@ -14,8 +14,8 @@
 
 > ### What am I learning/working on these days
 >
-> > - expanding my knowledge through FrontEnd Masters
-> > - Creating small repositories to practice front-end skills
+> > - expanding my knowledge of Javascript, React, CSS, and HTML through FrontEnd Masters and other programming applications.
+> > - Creating small Javascript repositories to continue acquiring front-end skills
 
 # **Get in touch**
 
