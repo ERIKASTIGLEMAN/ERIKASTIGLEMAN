@@ -21,7 +21,7 @@
 
 [![Linkedin!](/Images/LinkLogo.png)](https://www.linkedin.com/in/erikastigleman/)
 [![Github!](/Images/githubgirl.png)](mailto:estigleman@outlook.com)
-[![Email!](/Images/email.png)](https://github.com/ERIKASTIGLEMAN)
+[![Email!](/Images/emailletters.png)](https://github.com/ERIKASTIGLEMAN)
 
 # **Programming Languages**
 
