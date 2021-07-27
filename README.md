@@ -19,7 +19,7 @@
 
 # **Get in touch**
 
-![Linkedin!](/Images/LinkedinLogo.png)
+[![Linkedin!](/Images/LinkedinLogo.png)](https://www.linkedin.com/in/erikastigleman/)
 
 :email:
 
