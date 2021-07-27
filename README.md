@@ -19,7 +19,7 @@
 
 # **Get in touch**
 
-<img src="https://github.com/ERIKASTIGLEMAN/ERIKASTIGLEMAN/blob/trunk/Images/LinkedinLogo.png" width="75" height="45">(https://www.linkedin.com/in/erikastigleman/)
+[![Linkedin!](/Images/LinkedinLogo.png)](https://www.linkedin.com/in/erikastigleman/)
 
 :email:
 
